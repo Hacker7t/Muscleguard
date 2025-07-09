@@ -55,11 +55,3 @@ To run this project locally, ensure the following are installed:
 - **MySQL** or any compatible SQL database
 - **Node.js & npm** (for front-end assets)
 
----
-
-## 🛠️ Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/muscleguard.git
-   cd muscleguard
